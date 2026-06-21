@@ -9,7 +9,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=kophaiqui&color=6e40c9&style=flat-square&label=profile+views)
 
 </div>
 
