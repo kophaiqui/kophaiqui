@@ -25,16 +25,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kophaiqui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kophaiqui&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kophaiqui&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kophaiqui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=800" />
 
 </div>
 
