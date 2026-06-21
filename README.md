@@ -32,7 +32,7 @@
 
 ---
 
-**▸ [That One UI](https://github.com/kophaiqui/ui-store)** — many styles per component. because restyling shadcn is annoying.  
+**▸ [That One UI](https://github.com/kophaiqui/ui-store)** · [↗ live](https://that-one-ui.vercel.app/) — many styles per component. Built this because I was tired of the other ones.
 
 ---
 
