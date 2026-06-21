@@ -43,7 +43,6 @@
 ---
 
 **▸ [That One UI](https://github.com/kophaiqui/ui-store)** — many styles per component. because restyling shadcn is annoying.  
-**▸ [go-core](https://github.com/kophaiqui/go-core)** — modular Go backend. `controller → service → repository`. done.
 
 ---
 
